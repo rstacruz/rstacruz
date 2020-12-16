@@ -6,7 +6,7 @@ Hello! I'm Rico, you might know me from a few open source projects that are now 
 |:-------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [**pnpm**](https://github.com/pnpm/pnpm) (`pnpm/pnpm`) is a npm management tool. Original author.                                           |                     <a href='https://github.com/pnpm/pnpm'><img src='https://img.shields.io/github/stars/pnpm/pnpm?style=social' alt='GitHub badge'></a> |
 | [**Mina**](https://github.com/mina-deploy/mina) (`mina-deploy/mina`) is a fast web app deployment tool. Original co-author.               |       <a href='https://github.com/mina-deploy/mina'><img src='https://img.shields.io/github/stars/mina-deploy/mina?style=social' alt='GitHub badge'></a> |
-| [**js2coffee**](https://github.com/js2coffee/js2coffe) (`js2coffee/js2coffee`) compiles JavaScript into CoffeeScript. Original author. | <a href='https://github.com/js2coffee/js2coffee'><img src='https://img.shields.io/github/stars/js2coffee/js2coffee?style=social' alt='GitHub badge'></a> |
+| [**js2coffee**](https://github.com/js2coffee/js2coffee) (`js2coffee/js2coffee`) compiles JavaScript into CoffeeScript. Original author. | <a href='https://github.com/js2coffee/js2coffee'><img src='https://img.shields.io/github/stars/js2coffee/js2coffee?style=social' alt='GitHub badge'></a> |
 
 I manage a humble website with cheatsheets for web developers:
 

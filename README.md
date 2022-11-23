@@ -1,6 +1,6 @@
 :tada:
 
-Hello! I'm Rico, you might know me from a few open source projects that are now maintained by the community:
+Hello! I'm Rico. You can find me in <a rel="me" href="https://hachyderm.io/@rstacruz">Mastodon</a> or <a rel="me" href="https://twitter.com/rstacruz">Twitter</a>. You might know me from a few open source projects that are now maintained by the community:
 
 |                                                                                                                                                    |                                                                                                                                                          |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------: |
